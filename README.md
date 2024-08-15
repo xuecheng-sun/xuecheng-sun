@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xuecheng Sun</h1>
-<h3 align="center">a passionate web front-end developer with experience in Next.js, React, TypeScript, and Web3 technologies. I love building user-friendly applications and diving into the latest tech trends.d</h3>
+<h3 align="center">a passionate web front-end developer with experience in Next.js, React, TypeScript, and Web3 technologies. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuecheng-sun&label=Profile%20views&color=0e75b6&style=flat" alt="xuecheng-sun" /> </p>
 
