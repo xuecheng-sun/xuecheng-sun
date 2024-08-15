@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/daoduanle" target="blank"><img src="https://img.shields.io/twitter/follow/daoduanle?logo=twitter&style=for-the-badge" alt="daoduanle" /></a> </p>
 
 ### 📊 GitHub Stats
-![Xuecheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Xuecheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuecheng&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on [NeoX faucet](https://neoxwish.ngd.network/) A Web3 faucet application that includes IP address tracking, reCAPTCHA integration, and a daily GAS token limit.
 
