@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Xuecheng Sun</h1>
-<h3 align="center">Frontend</h3>
+<h3 align="center">a passionate web front-end developer with experience in Next.js, React, TypeScript, and Web3 technologies. I love building user-friendly applications and diving into the latest tech trends.d</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuecheng-sun&label=Profile%20views&color=0e75b6&style=flat" alt="xuecheng-sun" /> </p>
 
 <p align="left"> <a href="https://twitter.com/daoduanle" target="blank"><img src="https://img.shields.io/twitter/follow/daoduanle?logo=twitter&style=for-the-badge" alt="daoduanle" /></a> </p>
 
-- 🔭 I’m currently working on [NeoX faucet](https://neoxwish.ngd.network/)
+### 📊 GitHub Stats
+![Xuecheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+- 🔭 I’m currently working on [NeoX faucet](https://neoxwish.ngd.network/) A Web3 faucet application that includes IP address tracking, reCAPTCHA integration, and a daily GAS token limit.
 
 - 🌱 I’m currently learning **Database，python,kafka,hadoop**
 
