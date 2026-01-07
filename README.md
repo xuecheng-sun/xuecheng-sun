@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **React/React Native**
 
-- 📫 How to reach me **2487128518@qq.com（QQ mailbox is FINE！！）**
+- 📫 How to reach me **Dream**
 
 - 📄 Know about my experiences [👄](👄)
 
